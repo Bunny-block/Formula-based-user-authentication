@@ -18,7 +18,7 @@ fig 1.2
 ![IMG_20230821_070543](https://github.com/Bunny-block/Formula-based-user-authentication-system/assets/118076016/174f5948-13e2-4a70-8734-38c4afb491dd)
 
 
-# Some advantages of implementing this type authentication idea :
+# Some advantages of implementing this type of authentication idea :
 
 1) Because of a user generated formula user would be entering each time a new formula value for respective formula pin received by user from application during login.This 
    would make the authentication more secure.
