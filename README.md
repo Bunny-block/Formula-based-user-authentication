@@ -23,7 +23,7 @@ fig 1.2
 1) Because of a user generated formula user would be entering each time a new formula value for respective formula pin received by user from application during login.This 
    would make the authentication more secure.
 
-2) Some cyber attacks which can mitigated by implementation of this authentication system :
+2) Some cyber attacks which can be mitigated by  this kind of authentication :
 
     a) Social engineering attack like shoulder surfing  : Even if an attacker gets to know the formula value of an user while login by shoulder surfing then too attacker                                                              won’t be able to derive or get to know the formula so easily with the help of  formula value and formula pin if                                                              the user had generated a strong formula.
 
