@@ -15,7 +15,8 @@ fig 1.1
 ![IMG_20230821_070518](https://github.com/Bunny-block/Formula-based-user-authentication-system/assets/118076016/796f43e2-81be-4f19-9fbc-af41d4fbe1f2)
 
 fig 1.2 
-![IMG_20230821_070543](https://github.com/Bunny-block/Formula-based-user-authentication-system/assets/118076016/174f5948-13e2-4a70-8734-38c4afb491dd)
+![1694285425797.jpg](https://github.com/Bunny-block/Formula-based-user-authentication/assets/118076016/2a07d3a3-66c5-4b8c-a240-2947ba11791c)
+
 
 
 # Some advantages of implementing this type of authentication idea :
