@@ -43,7 +43,7 @@ while True:
             print(m)
             mail_content = 'your OTP is '+ m
             #The mail addresses and password
-            sender_address = 'bhorhoney@gmail.com'
+            sender_address = 'xyz@xyz.com'
             sender_pass = 'etyciuwxkihamzcz'
             receiver_address = username
             #Setup the MIME
